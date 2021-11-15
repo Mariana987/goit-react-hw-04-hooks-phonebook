@@ -4,8 +4,8 @@ import s from './Form.module.css';
 
 export default function Form({ getFormData }) {
 
-    const [name, setName] = useState(' ');
-    const [number, setNumber] = useState(' ')
+    const [name, setName] = useState('');
+    const [number, setNumber] = useState('')
 
 
 
